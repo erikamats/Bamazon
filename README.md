@@ -7,4 +7,4 @@
 <li>The number of items for purchase</li>
 </ul>
 
-(https://github.com/erikamats/Bamazon/files/2025283/customerBamazon.gif.zip)
+(https://github.com/erikamats/Bamazon/files/2025283/customerBamazon.gif)
